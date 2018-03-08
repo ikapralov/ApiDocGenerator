@@ -1,10 +1,18 @@
-2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -  }
-2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -   if (n.getComment().isPresent() && n.isAnnotationPresent(Deprecated.class)) {
-2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -  }
-2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -   if (n.getComment().isPresent() && n.isAnnotationPresent(Deprecated.class)) {
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - Haliluya!!!!!!!!!
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - Haliluya!!!!!!!!!
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
-2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
+2018-03-08 18:23:18.494 [main] INFO  ru.stoloto.support.ParserMojoTest - fileHandler
+2018-03-08 18:23:18.494 [main] INFO  ru.stoloto.support.ParserMojoTest - filter
+2018-03-08 18:23:18.494 [main] INFO  ru.stoloto.support.ParserMojoTest - nodeHandler
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - mavenProject
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - mavenSession
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - file
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - docpath
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - charset
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - path
+2018-03-08 18:23:18.525 [main] INFO  ru.stoloto.support.ParserMojoTest - objectMapper
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - DummyClass.java
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - gameId
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - MyDummyClass.java
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - drawsId
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - DummyClass.java
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - gameId
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - MyDummyClass.java
+2018-03-08 18:23:18.540 [main] INFO  ru.stoloto.support.ParserMojoTest - drawsId
