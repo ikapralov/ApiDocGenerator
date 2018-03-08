@@ -1,0 +1,10 @@
+2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -  }
+2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -   if (n.getComment().isPresent() && n.isAnnotationPresent(Deprecated.class)) {
+2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -  }
+2018-03-08 16:30:30.837 [main] INFO  ru.stoloto.support.ParserMojoTest -   if (n.getComment().isPresent() && n.isAnnotationPresent(Deprecated.class)) {
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - Haliluya!!!!!!!!!
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - Haliluya!!!!!!!!!
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
+2018-03-08 16:30:30.852 [main] INFO  ru.stoloto.support.ParserMojoTest - уникальный идентификатор игры (код игры)
