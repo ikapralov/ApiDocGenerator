@@ -1,4 +1,4 @@
-package local.test;
+package ru.stoloto.support;
 
 import com.github.javaparser.ast.Node;
 

@@ -1,4 +1,4 @@
-package local.test;
+package ru.stoloto.support;
 
 import java.io.File;
 
